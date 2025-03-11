@@ -21,10 +21,10 @@ python main.py
 ```
 
 # 🛠 Teknologi yang Digunakan
-🐍 Python 3.x
-🌍 requests, BeautifulSoup
-📊 Pandas, NumPy
-📈 Matplotlib, Seaborn
+- 🐍 Python 3.x
+- 🌍 requests, BeautifulSoup
+- 📊 Pandas, NumPy
+- 📈 Matplotlib, Seaborn
 
 ## 📄 Lisensi
 Proyek ini dilisensikan di bawah MIT License.
