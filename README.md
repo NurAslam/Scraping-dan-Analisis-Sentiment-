@@ -13,10 +13,12 @@ Untuk menginstal dan menjalankan proyek ini, ikuti langkah-langkah berikut:
 ```python
 gh repo clone NurAslam/Scraping-dan-Analisis-Sentiment-
 cd Scraping-dan-Analisis-Sentiment-
+```
 
 ### Jalankan proyek
 ```python
 python main.py
+```
 
 # 🛠 Teknologi yang Digunakan
 🐍 Python 3.x
